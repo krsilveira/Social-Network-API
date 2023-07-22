@@ -2,12 +2,12 @@
 
 ## Description
 This Social Network backend application allows you to perform CRUD functions to manage Users, Thought and Reactions. In addition, it allows you to Add/Delete Friends and Add/Delete Reactions to Thoughts. The application is built using javascript on a NoSQL backend, with; express, mongoose and dayjs libaries operated from Insomia and CLI commands. These are the highlighted proficiencies during development process:
->  Mongoose <br>
-> Express.js <br>
-> Node.js <br>
-> Schema/Models  <br>
->  ODM  <br>
->  CRUD operations <br>
+* Mongoose 
+* Express.js 
+ * Node.js 
+ * Schema/Models  
+ * ODM  
+ * CRUD operations 
 
 
 
