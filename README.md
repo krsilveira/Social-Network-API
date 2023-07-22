@@ -36,6 +36,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 Users will need to install npm libraries and create a .env file to include entries for the socialDB database as well as a DB_URI for 'mongodb://127.0.0.1:27017/'. Users are expected to have mongoDB installed Set-Up the CLI Commands from project root directory after git cloneing the repo by using:
 > npm i <br>
 > npm run start <br>
+
 Use Insomia for GET and POSTS commands with the following url: http://localhost:3001/api/users/. 
 'Users' 'Friend' 'Thoguhts' 'Reactions' Will be used to control User accounts in order to create/delete/get Users or Friends and Thoughts along with adding Reactions to other users  
 Video Demonstration Link Here[https://drive.google.com/file/d/1fEFD7YgnhXnIKy78b6WSgX27WVFPAsH9/view] 
